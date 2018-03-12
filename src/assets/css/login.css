@@ -1,0 +1,21 @@
+body{
+    background:#60646e;
+    /*background: -webkit-radial-gradient(circle,#fff,#b5e6df,#a1cfc8);Safari*/
+    /*background: -o-radial-gradient(circle,#fff,#b5e6df,#a1cfc8);Oprera*/
+    /*background:-moz-radial-gradient(circle,#fff,#b5e6df,#a1cfc8);Firefox*/
+    /*background: radial-gradient(circle,#fff,#b5e6df,#a1cfc8);标准语法*/
+}
+#login{
+    width:350px;
+    margin:0 auto;
+    margin-top:15%;
+    padding: 20px;
+}
+#login h1{
+    margin:20px 0;
+    text-align: center;
+}
+#login #signin{
+    width:100%;
+    /* text-align: center; */
+}
